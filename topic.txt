@@ -1,0 +1,14 @@
+Google api client library:
+used for accssing google api
+mostly used in
+- authenticate (oAuth 2.0/service account)
+- call google api endpoints(e.g,Drive ,sheets,smail,youtube)
+- handle responses
+========>
+InStalation : 
+
+pip install google-python-client google-auth-htttplib2 google-auth-oauthlib
+
+
+
+
